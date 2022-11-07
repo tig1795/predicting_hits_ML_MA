@@ -1,0 +1,1195 @@
+lyrics,tags,num_syllables,pos,year,fog_index,flesch_index,num_words,num_lines,sentiment,title,f_k_grade,artist,difficult_words,num_dupes
+"Well, since my baby left me
+In the fiery place to dwell
+It's down at the end of Lonely Street
+At Heartbreak Hotel
+
+I've been so lonely, baby
+Well, I'm so lonely
+I'll be so lonely I could die
+
+Oh, although it's always crowded
+You still can find some room
+For broken hearted lovers
+To cry away their gloom
+
+They've been so lonely, baby
+Well, they're so lonely
+Well, they're so lonely they could die
+
+Now, the bellhop's tears keep flowin'
+And the desk clerk's dressed in black
+Well, they been so long on Lonely Street
+They never ever look back
+
+And it's so lonely, baby
+Well they're so lonely
+Well, they're so lonely they could die
+
+Well, if your baby leaves you
+And you got a tale to tell
+Just take a walk down Lonely Street
+To Heartbreak Hotel
+
+You'll be so lonely, baby
+You're gonna be lonely
+You'll be so lonely you could die
+
+Oh, although it's always crowded
+You still can find some room
+For broken hearted lovers
+To cry away their gloom
+
+They'll be so lonely, baby
+Well, they're so lonely
+Well, they'll be so lonely they could die","['american', 'blue-eyed soul', 'blues', 'christmas music', 'classic pop and rock', 'country', 'flaming', 'gospel', 'if you talk in your sleep', 'love', 'oldies', 'party', 'pop', 'pop rock', 'pop/rock', 'rock', 'rock & roll', 'rock and roll', 'rockabilly', 'singer']",247.5,1,1956,4.0,91.78,193,35,"{'neg': 0.384, 'neu': 0.511, 'pos': 0.10400000000000001, 'compound': -0.9978}",Heartbreak Hotel,1.7000000000000002,Elvis Presley,17,14
+"You know I can be found
+Sitting home all alone
+If you can't come around
+At least please telephone
+A-don't be cruel to a heart that's true
+
+Baby, if I made you mad
+For something I might have said
+Please, let's forget the past
+The future looks bright ahead
+A-don't be cruel to a heart that's true
+I don't want no other love
+A-baby, it's still you I'm thinking of, mm
+
+Don't stop thinking of me
+Don't make me feel this way
+Come on over here and love me
+You know what I want you to say
+A-don't be cruel to a heart that's true
+Why should we be apart?
+I really love you, baby, cross my heart
+
+Let's walk up to the preacher
+And let us say ""I do""
+Then you'll know you'll have me
+And I'll know that I'll have you
+A-don't be cruel to a heart that's true
+I don't want no other love
+A-baby, it's still you I'm thinking of
+
+A-don't be cruel to a heart that's true
+Don't be cruel to a heart that's true
+I don't want no other love
+A-baby, it's still you I'm thinking of","['american', 'blue-eyed soul', 'blues', 'christmas music', 'classic pop and rock', 'country', 'flaming', 'gospel', 'if you talk in your sleep', 'love', 'oldies', 'party', 'pop', 'pop rock', 'pop/rock', 'rock', 'rock & roll', 'rock and roll', 'rockabilly', 'singer']",220.5,2,1956,4.4,107.69,193,30,"{'neg': 0.052000000000000005, 'neu': 0.64, 'pos': 0.308, 'compound': 0.9958}",Don't Be Cruel,-0.30000000000000004,Elvis Presley,13,10
+"When the twilight is gone
+And no songbirds are singing
+When the twilight is gone
+You come into my heart
+And here in my heart you will stay while I pray
+
+My prayer
+Is to linger with you
+At the end of the day
+In a dream that's divine
+
+My prayer
+Is a rapture in blue
+With the world far away
+And your lips close to mine
+
+Tonight
+While our hearts are aglow
+Oh tell me the words
+That I'm longing to know
+
+My prayer
+And the answer you give
+May they still be the same
+For as long as we live
+
+That you'll always be there
+At the end of my prayer",['easy listening soundtracks and musicals'],128.7,4,1956,4.0,108.7,113,19,"{'neg': 0.028, 'neu': 0.89, 'pos': 0.081, 'compound': 0.7351000000000001}",My Prayer,-0.7000000000000001,Platters,11,7
+"You ain't nothin' but a hound dog
+Cryin' all the time
+You ain't nothin' but a hound dog
+Cryin' all the time
+Well, you ain't never caught a rabbit
+And you ain't no friend of mine
+
+When they said you was high classed
+Well, that was just a lie
+Yeah, they said you was high classed
+Well, that was just a lie
+Yeah, you ain't never caught a rabbit
+And you ain't no friend of mine
+
+You ain't nothin' but a hound dog
+Cryin' all the time
+You ain't nothin' but a hound dog
+Cryin' all the time
+Well, you ain't never caught a rabbit
+And you ain't no friend of mine
+
+When they said you was high classed
+Well, that was just a lie
+Yeah, they said you was high classed
+Well, that was just a lie
+Well, you ain't never caught a rabbit
+And you ain't no friend of mine
+
+When they said you was high classed
+Well, that was just a lie
+You know, they said you was high classed
+Well, that was just a lie
+Yeah, you ain't never caught a rabbit
+And you ain't no friend of mine
+
+You ain't nothin' but a hound dog
+Cryin' all the time
+You ain't nothin' but a hound dog
+Cryin' all the time
+Well, you ain't never caught a rabbit
+You ain't no friend of mine","['american', 'blue-eyed soul', 'blues', 'christmas music', 'classic pop and rock', 'country', 'flaming', 'gospel', 'if you talk in your sleep', 'love', 'oldies', 'party', 'pop', 'pop rock', 'pop/rock', 'rock', 'rock & roll', 'rock and roll', 'rockabilly', 'singer']",236.7,8,1956,4.4,116.15,228,36,"{'neg': 0.081, 'neu': 0.718, 'pos': 0.202, 'compound': 0.9751000000000001}",Hound Dog,-1.4,Elvis Presley,3,30
+"(The sweet, sweet memories you've given me
+You can't beat the memories you've given me)
+
+Take one fresh and tender kiss
+Add one stolen night of bliss
+One girl, one boy, some grief, some joy
+Memories are made of this
+
+Don't forget a small moonbeam
+Fold it lightly with a dream
+Your lips and mine, two sips of wine
+Memories are made of this
+
+Then add the wedding bells
+One house where lovers dwell
+Three little kids for the flavor
+
+Stir carefully through the days
+See how the flavor stays
+These are the dreams you will savor
+
+With His blessings from above
+Serve it generously with love
+One man, one wife, one love through life
+Memories are made of this
+Memories are made of this","['american', 'big band', 'christmas music', 'classic pop and rock', 'country pop', 'pop', 'standards', 'traditional pop', 'vocal jazz']",171.9,9,1956,4.0,83.32,125,21,"{'neg': 0.041, 'neu': 0.667, 'pos': 0.293, 'compound': 0.9888}",Memories Are Made Of This,2.9,Dean Martin,14,7
+"Oh yes, I'm the great pretender
+Pretending that I'm doing well
+My need is such, I pretend too much
+I'm lonely but no one can tell
+
+Oh yes, I'm the great pretender
+Adrift in a world of my own
+I play the game but to my real shame
+You've left me to dream all alone
+
+Too real is this feeling of make believe
+Too real when I feel what my heart can't conceal
+
+Oh yes, I'm the great pretender
+Just laughing and gay like a clown
+I seem to be what I'm not, you see
+I'm wearing my heart like a crown
+Pretending that you're still around
+
+Too real is this feeling of make believe
+Too real when I feel what my heart can't conceal
+
+Oh yes, I'm the great pretender
+Just laughing and gay like a clown
+I seem to be what I'm not you see
+I'm wearing my heart like a crown
+Pretending that you're still around
+(Still around)",['easy listening soundtracks and musicals'],187.2,12,1956,4.800000000000001,98.21,161,22,"{'neg': 0.061, 'neu': 0.602, 'pos': 0.338, 'compound': 0.9953000000000001}",The Great Pretender,1.3,Platters,12,12
+"When I lost my baby (baby)
+I almost lost my mind (ooh)
+When I lost my baby (baby)
+I almost lost my mind (ooh)
+My head is in a spin since she's left me behind
+
+I went to see the gypsy
+And had my fortune read
+I went to see the gypsy
+And had my fortune read
+I hung my head in sorrow when she said what she said
+
+Well, I can tell you people (people)
+The news was not so good (ooh)
+Well, I can tell you people (people)
+The news was not so good
+She said, ""Your baby's left you.
+This time she's gone for good"" (gone for good)","['country', 'gospel', 'pop']",120.6,13,1956,4.4,107.69,111,16,"{'neg': 0.186, 'neu': 0.779, 'pos': 0.036000000000000004, 'compound': -0.9476}",I Almost Lost My Mind,-0.30000000000000004,Pat Boone,6,6
+"Hold me close, hold me tight
+Make me thrill with delight
+Let me know where I stand from the start
+I want you, I need you, I love you
+With all my heart
+
+Ev'ry time that you're near
+All my cares disappear
+Darling, you're all that I'm living for
+I want you, I need you, I love you
+More and more
+
+I thought I could live without romance
+Before you came to me
+But now I know that
+I will go on loving you eternally
+
+Won't you please be my own?
+Never leave me alone
+'Cause I die ev'ry time we're apart
+I want you, I need you, I love you
+With all my heart","['american', 'blue-eyed soul', 'blues', 'christmas music', 'classic pop and rock', 'country', 'flaming', 'gospel', 'if you talk in your sleep', 'love', 'oldies', 'party', 'pop', 'pop rock', 'pop/rock', 'rock', 'rock & roll', 'rock and roll', 'rockabilly', 'singer']",138.6,14,1956,4.4,99.23,115,19,"{'neg': 0.106, 'neu': 0.636, 'pos': 0.257, 'compound': 0.9671000000000001}","I Want You, I Need You, I Love You",0.9,Elvis Presley,13,5
+"Love me tender, love me sweet
+Never let me go
+You have made my life complete
+And I love you so
+
+Love me tender, love me true
+All my dreams fulfill
+For my darlin', I love you
+And I always will
+
+Love me tender, love me long
+Take me to your heart
+For it's there that I belong
+And we'll never part
+
+Love me tender, love me true
+All my dreams fulfill
+For my darlin', I love you
+And I always will
+
+Love me tender, love me dear
+Tell me you are mine
+I'll be yours through all the years
+Till the end of time
+
+Love me tender, love me true
+All my dreams fulfill
+For my darlin', I love you
+And I always will","['american', 'blue-eyed soul', 'blues', 'christmas music', 'classic pop and rock', 'country', 'flaming', 'gospel', 'if you talk in your sleep', 'love', 'oldies', 'party', 'pop', 'pop rock', 'pop/rock', 'rock', 'rock & roll', 'rock and roll', 'rockabilly', 'singer']",152.1,15,1956,4.0,100.24,125,24,"{'neg': 0.0, 'neu': 0.47900000000000004, 'pos': 0.521, 'compound': 0.9985}",Love Me Tender,0.5,Elvis Presley,6,12
+"Oh, hot diggity, dog ziggity, boom what you do to me
+It's so new to me, what you do to me
+Hot diggity, dog ziggity, boom what you do to me
+When you're holding me tight
+
+Never dreamed anybody could kiss that away
+Bring me bliss that away, what a kiss that away
+What a wonderful feelin' to feel that away
+Tell me where have you been all my life
+
+Never knew that my heart could go ""zing"" that away
+Ting-a-ling that away, make me sing that away
+Said ""goodbye"" to my troubles, they went that away
+Ever since you came into my life
+
+There's a cute little cottage for two that away
+Skies are blue that away, dreams come true that away
+If you say I can share it with you that away
+I'll be happy the rest of my life
+
+Oh, hot diggity, dog ziggity, boom what you do to me
+How my future will shine
+Hot diggity, dog ziggity, boom what you do to me
+From the moment you're mine
+
+Hot dog!","['adult contemporary', 'american', 'big band', 'classic pop and rock', 'country', 'easy listening', 'jazz', 'latin', 'pop', 'rock', 'rock and roll', 'swing']",218.7,16,1956,5.2,97.2,175,20,"{'neg': 0.016, 'neu': 0.84, 'pos': 0.14400000000000002, 'compound': 0.9741000000000001}",Hot Diggity,1.7000000000000002,Perry Como,13,6
+"Well, it's one for the money,
+Two for the show,
+Three to get ready,
+Now go, cat, go.
+But don't you step on my blue suede shoes.
+You can do anything but lay off of my blue suede shoes.
+
+Well, you can knock me down,
+Step in my face,
+Slander my name
+All over the place.
+Do anything that you want to do, but uh-uh,
+Honey, lay off of my shoes
+Don't you step on my Blue suede shoes.
+You can do anything but lay off of my blue suede shoes.
+
+You can burn my house,
+Steal my car,
+Drink my liquor 
+From an old fruitjar.
+Do anything that you want to do, but uh-uh,
+Honey, lay off of my shoes
+Don't you step on my blue suede shoes.
+You can do anything but lay off of my blue suede shoes.
+
+Well, it's one for the money,
+Two for the show,
+Three to get ready,
+Now go, cat, go.
+But don't you step on my blue suede shoes.
+You can do anything but lay off of my blue suede shoes.","['american', 'country', 'death by stroke', 'death by throat cancer', 'rock', 'rock & roll', 'rockabilly']",196.2,18,1956,4.4,107.69,180,28,"{'neg': 0.023, 'neu': 0.925, 'pos': 0.052000000000000005, 'compound': 0.3506}",Blue Suede Shoes,-0.30000000000000004,Carl Perkins,7,12
+"Some people say a man is made out of mud
+A poor man's made out of muscle and blood
+Muscle and blood and skin and bones
+A mind that's weak and a back that's strong
+
+You load sixteen tons, whattaya get?
+Another day older and deeper in debt
+St. Peter don'cha call me, 'cause I can't go
+I owe my soul to the company store
+
+I was born one morning when the sun didn't shine
+I picked up my shovel and I walked to the mine
+I loaded sixteen tons of number-nine coal
+And the straw boss said, ""Well bless my soul!""
+
+You load sixteen tons, whattaya get?
+Another day older and deeper in debt
+St. Peter don'cha call me, 'cause I can't go
+I owe my soul to the company store
+
+I was born one morning, it was drizzlin' rain
+Fightin' and trouble are my middle name
+I was raised in the canebreak by an old mama lion
+Can't no high-toned woman make me walk the line
+
+You load sixteen tons, whattaya get?
+Another day older and deeper in debt
+St. Peter don'cha call me, 'cause I can't go
+I owe my soul to the company store
+
+If you see me comin' better step aside
+A lotta men didn't, a lotta men died
+One fist of iron, the other of steel
+If the right one don't getcha then the left one will
+
+You load sixteen tons, whattaya get?
+Another day older and deeper in debt
+St. Peter don'cha call me, 'cause I can't go
+I owe my soul to the company store","['death by liver failure', 'spiritual']",322.2,22,1956,5.2,97.2,263,32,"{'neg': 0.075, 'neu': 0.865, 'pos': 0.06, 'compound': -0.6174000000000001}",Sixteen Tons,1.7000000000000002,Tennessee Ernie Ford,24,18
+"Allegheny Moon I need your light
+To help me find romance tonight
+So shine, shine, shine
+Allegheny Moon your silver beams
+Can lead the way to golden dreams
+So shine, shine, shine
+
+High among the stars so bright above
+The magic of your lamp of love can make him mine
+Allegheny Moon it's up to you
+Please see what you can do
+For me and for my one and only love
+
+Shine, shine, shine
+Shine, shine, shine
+
+High among the stars so bright above
+The magic of your lamp of love can make him mine
+Allegheny Moon it's up to you
+Please see what you can do
+For me and for my one and only love
+
+Shine on me tonight, Allegheny Moon","['country', 'pop']",160.2,24,1956,4.4,90.77,122,19,"{'neg': 0.0, 'neu': 0.744, 'pos': 0.256, 'compound': 0.9898}",Allegheny Moon,2.1,Patti Page,5,10
+"Yes it's me and I'm in love again
+Had no lovin' since you know when
+You know I love you, yes I do
+And I'm saving all my lovin' just for you
+
+Need your lovin' and I need it bad
+Just like a dog when he's goin' mad
+Woo-ee baby, woo-oo-ee
+Baby won't you give your love to me
+
+Eenie meenie and miney-mo
+Told me you'd'n't want me around no more
+Woo-ee baby, woo-oo-ee
+Baby don't you let your dog bite me
+
+Yes it's me and I'm in love again
+Had no lovin' since you know when
+You know I love, you yes I do
+And I'm saving all my lovin' just for you
+
+Eenie, meenie, and miney-mo
+Told me you'd'n't want me around no more
+Woo-ee baby, woo-oo-ee
+Baby don't you let your dog bite me","['boogie-woogie', 'new orleans r b', 'new orleans r&b', 'piano blues', 'rhythm & blues', 'rnb', 'rock', 'rock & roll', 'rock and indie', 'rock and roll']",156.6,25,1956,4.4,107.69,137,20,"{'neg': 0.109, 'neu': 0.684, 'pos': 0.20800000000000002, 'compound': 0.9655}",I'm In Love Again,-0.30000000000000004,Fats Domino,6,10
+"Well, be-bop-a-lula, she's my baby
+Be-bop-a-lula, I don't mean maybe
+Be-bop-a-lula, she's my baby
+Be-bop-a-lula, I don't mean maybe
+
+Be-bop-a-lula
+She's my baby doll, my baby doll, my baby doll
+
+Well she's the girl in the red blue jeans
+She's the queen of all the teens
+She's the one woman that I know
+She's the woman that loves me so
+
+Be-bop-a-lula, she's my baby
+Be-bop-a-lula, I don't mean maybe
+Be-bop-a-lula
+She's my baby doll, my baby doll, my baby doll
+
+Let's rock!
+
+Well now she's the one that's got that beat
+She's the one with the flyin' feet
+She's the one that bops around the store
+She's the one that gives more more more more
+
+Be-bop-a-lula, she's my baby
+Be-bop-a-lula, I don't mean maybe
+Be-bop-a-lula
+She's my baby doll, my baby doll, my baby doll
+
+Let's rock again now!
+
+Well, be-bop-a-lula, she's my baby
+Be-bop-a-lula, I don't mean maybe
+Be-bop-a-lula, she's my baby
+Be-bop-a-lula, I don't mean maybe
+
+Be-bop-a-lula
+She's my baby doll, my baby doll, my baby doll",['death by ruptured stomach ulcer'],245.7,27,1956,4.4,73.85,169,25,"{'neg': 0.0, 'neu': 0.925, 'pos': 0.075, 'compound': 0.893}",Be-Bop-A-Lula,4.5,Gene Vincent,7,23
+"I'll be home, my darling
+Please wait for me (wait for me)
+We'll stroll along together
+Once more our love will be free
+
+At the corner drugstore
+Each Saturday we would meet (we would meet)
+I'd walk you home in the moonlight
+All of these things we'll repeat
+
+So darling, as I write this letter
+Here's hoping you're thinking of me
+My mind's made up'.
+So long until I'll be home to start serving you
+
+I'll be home, my darling
+Please wait for me (wait for me)
+I'd walk you home in the moonlight 
+Once more our love will be free
+
+SPOKEN: Darling, as I write this letter, here's hoping you're 
+thinking of me.  My mind's made up'. 
+so long until I'll be home to start serving you.
+
+I'll be home, my darling
+Please wait for me (wait for me)
+I'll walk you home in the moonlight 
+Once more our love will be free","['country', 'gospel', 'pop']",189.0,34,1956,4.4,99.23,154,24,"{'neg': 0.0, 'neu': 0.713, 'pos': 0.28700000000000003, 'compound': 0.9951000000000001}",I'll Be Home,0.9,Pat Boone,14,10
+"By your side, satisfied
+Through and through
+Cause I was born to be with you
+
+Humming first verse
+
+Wondrously, love can see
+So I knew that I was born to be with you
+
+Humming and whistling last verse
+
+Do I find
+Peace of mind
+Yes I do
+Cause I was born to be with you
+All life through
+Yes,  I was born to be with you","['classic pop and rock', 'vocal harmony']",72.9,37,1956,4.0,108.7,66,13,"{'neg': 0.0, 'neu': 0.773, 'pos': 0.227, 'compound': 0.9423}",Born To Be With You,-0.7000000000000001,Chordettes,4,4
+"You're more than life to me, 
+More than eternity . . . 
+And the more I know of you, 
+All the more I love you . . . 
+
+I need you more each day, 
+Much more than words can say. . . 
+More than forevermore, 
+I'll be yours. . . 
+
+The silver moon will fade too soon, 
+And bring the dawn when you'll be gone . . . 
+Before you go, please let me know, 
+That what you feel is really real . . . 
+
+So do not grieve that I must leave, 
+Because I live only for, 
+Your love an' mine, 
+More and more! 
+
+( repeat first two verses ) 
+
+More than forevermore, 
+I'll be yours!","['adult contemporary', 'american', 'big band', 'classic pop and rock', 'country', 'easy listening', 'jazz', 'latin', 'pop', 'rock', 'rock and roll', 'swing']",126.0,39,1956,4.0,91.78,99,19,"{'neg': 0.011, 'neu': 0.852, 'pos': 0.137, 'compound': 0.9339000000000001}",More,1.7000000000000002,Perry Como,5,5
+"I found my thrill on Blueberry Hill
+On Blueberry Hill, when I found you
+The moon stood still on Blueberry Hill
+And lingered until my dreams came true
+
+The wind in the willow played
+Love's sweet melody
+But all of those vows you made
+Were never to be
+
+Though we're apart, you're part of me still
+For you were my thrill on Blueberry Hill
+
+The wind in the willow played
+Love's sweet melody
+But all of those vows we made
+Were never to be
+
+Though we're apart, you're part of me still
+For you were my thrill on Blueberry Hill","['boogie-woogie', 'new orleans r b', 'new orleans r&b', 'piano blues', 'rhythm & blues', 'rnb', 'rock', 'rock & roll', 'rock and indie', 'rock and roll']",124.2,41,1956,4.4,99.23,100,16,"{'neg': 0.0, 'neu': 0.789, 'pos': 0.211, 'compound': 0.9674}",Blueberry Hill,0.9,Fats Domino,5,8
+"Suntanned, windblown
+Honeymooners at last alone
+Feeling far above par
+Oh, how lucky we are
+
+While I give to you
+And you give to me
+True love, true love
+
+So on and on
+It'll always be
+True love, true love
+
+For you and I have a guardian angel
+On high, with nothin' to do
+But to give to you and to give to me
+Love forever true
+
+For you and I have a guardian angel
+On high, with nothing to do
+But to give to you and to give to me
+Love forever true
+Love forever true","['american', 'christmas music', 'death by heart attack', 'dixieland', 'easy listening soundtracks and musicals', 'film soundtrack', 'jazz', 'pop', 'standards', 'traditional pop', 'vocal jazz']",124.2,44,1956,4.0,91.78,97,18,"{'neg': 0.015, 'neu': 0.5760000000000001, 'pos': 0.40900000000000003, 'compound': 0.9944000000000001}",True Love,1.7000000000000002,Bing Crosby,10,8
+"Gonna tell Aunt Mary 'bout Uncle John
+He claims he has the misery
+But he has a lot of fun
+Oh baby
+Yes baby
+Wooh baby
+Havin' me some fun tonight, yeah
+
+Well, long tall Sally
+She's really sweet
+She got everything that Uncle John need
+Oh baby
+Yes baby
+Wooh baby
+Havin' me some fun tonight, yeah
+
+Well, I saw Uncle John with bald head Sally
+He saw Aunt Mary comin'
+And he jumped back in the alley
+Oh baby
+Yes baby
+Wooh baby
+Havin' me some fun tonight, yeah
+
+Well, long tall Sally
+She's built for speed
+She got everything that Uncle John need
+Oh baby
+Yes baby
+Wooh baby
+Havin' me some fun tonight, yeah
+
+Well, I saw Uncle John with bald head Sally
+He saw Aunt Mary comin'
+And he jumped back in the alley
+Oh baby
+Yes baby
+Wooh baby
+Havin' me some fun tonight, yeah
+
+We gonna have some fun tonight
+Have some fun tonight, wooh
+Have some fun tonight
+Everything's all right
+Have some fun
+Have me some fun tonight","['classic pop and rock', 'funk', 'pop', 'rhythm & blues', 'rock', 'rock & roll', 'soul']",227.7,45,1956,4.4,90.77,177,26,"{'neg': 0.017, 'neu': 0.659, 'pos': 0.325, 'compound': 0.9961000000000001}",Long Tall Sally,2.1,Little Richard,14,25
+"TRANSFUSION
+Nervous Norvus
+
+ZZZZZZOOOOOOOOOOOOMMMMMMMMMMMM
+Tooling down the hightway doing 79
+I'm a twin pipe papa and I'm feelin fine
+Hey man dig that was that a red stop sign-
+(Scrreeech-BANG!!tinkle)
+Transfusion transfusion
+I'm just a solid mess of contusions
+Never never never gonna speed again
+Slip the blood to me Bud
+
+I jump in my rod about a quarter to nine
+I gotta make a date with that chick of mine
+I cross the center line man you gotta make time-
+(Scrreeech-BANG!!tinkle)
+Transfusion transfusion
+Oh man I got the cotton pickin convolutions
+Never never never gonna speed again
+Shoot the juice to me Bruce
+
+My foot's on the throttle and it's made of lead
+But I'm a fast ridding daddy with a real cool head
+I'ma gonna pass a truck on the hill ahead-
+(Scrreeech-BANG!!tinkle)
+Transfusion transfusion
+My red corpsuckles (sic) are in mass confusion
+Never never never gonna speed again
+Pass the crimson to me Jimson
+
+I took a little drink and I'm feelin right
+I can fly right over everything everything in sight
+There's a slow poking cat I'm gonna pass him on the right-
+(Scrreeech-BANG!!tinkle)
+Transfusion transfusion
+I'm a real gone paleface and that's no illusion
+I'ma never never never gonna speed again
+Pass the claret to me Barrett
+
+A rollin down the mountain on a rainy day
+Oh when you see me coming better start to pray
+I'ma cuttin up the road and I'm the boss all the way-
+(Scrreeech-BANG!!tinkle)
+Transfusion transfusion
+Oh doc pardon me for this crazy intrusion
+I'm never never never gonna speed again
+Pump the fluid in me Louie
+
+I'm burning up the highway early this morn
+I'm passing everybody oh nothing but corn
+Man outa my way I don't drive with my horn-
+(Scrreeech-BANG!!tinkle)
+Transfusion transfusion
+Oh nurse I'm gonna make a new resolution
+I'm never never never gonna speed again
+Put a gallon in me Alan
+
+Oh barnyard drivers are found in two classes
+Line crowding hogs and speeding jackasses
+So rememmber to slow down today
+Hey daddy-o
+Make that type O huh
+Atta-boy
+(Scrreeech-BANG!!tinkle)",['death by cirrhosis'],479.7,47,1956,5.2,80.28,345,40,"{'neg': 0.057, 'neu': 0.914, 'pos': 0.029, 'compound': -0.8622000000000001}",Transfusion,4.1,Nervous Norvus,50,20
+"Now this here's the story about the Rock Island Line
+The Rock Island Line she runs down into New Orleasn
+And just outside of New Orleans is a big toll gate
+And all the trains that go through the toll gate
+They gotta pay the man some money
+But of course, if you got certain things on board
+You're okay and you don't have to pay the man nothin
+And just now we see a change comin down the line
+When you come up to the toll gate
+The driver, he shout down to the man
+I got pigs, I got horses, I got cows
+I got sheep, I got all livestock, I got all livestock
+I got all livestock
+The man say, you alright boy just
+Get on through, you don't have to pay me nothin
+And then the train go through
+And when he go through the tollgate
+The train gotta have a little bit of steam
+And a little bit of speed
+And when the driver think he safely on the other side
+He shouts back down the line to the man
+I fooled you, I fooled you
+I got pig iron, I got pig iron
+I got all pig iron,
+Now I'll tell you where I'm goin boy
+
+Down the rock island line is a might good road
+Oh the rock island line is the road to ride
+The rock island line is a mighty good road
+
+Well if you want to ride you gotta ride it like you find it
+Get your ticket at the station of the rock island line
+Well I may be right, I may be wrong
+You're gonna miss me when I'm gone
+
+Down the rock island line is a might good road
+Oh the rock island line is the road to ride
+The rock island line is a mighty good road
+
+Hey you are safe within
+The good Lord's comin to see me again
+
+Down the rock island line is a might good road
+Oh the rock island line is the road to ride
+The rock island line is a mighty good road
+
+Abc wxyz
+The cats on the cover but he don't see me
+
+
+Down the rock island line is a might good road
+Oh the rock island line is the road to ride
+The rock island line is a mighty good road","['british', 'english', 'scottish', 'uk']",450.0,50,1956,5.2,105.66,394,44,"{'neg': 0.027, 'neu': 0.881, 'pos': 0.092, 'compound': 0.9655}",Rock Island Line,0.5,Lonnie Donegan,22,16
+"Thee I love, more than the meadow so green and still
+More than the mulberries on the hill
+More than the buds of a May apple tree, I love thee
+
+Arms have I, strong as the oak, for this occasion
+Lips have I, to kiss thee, too, in friendly persuasion
+
+Thee is mine, though I don't know many words of praise
+Thee pleasures me in a hundred ways
+Put on your bonnet, your cape, and your glove
+And come with me, for thee I love
+
+Friendly persuasion
+
+Thee is mine, though I don't know many words of praise
+Thee pleasures me in a hundred ways
+Put on your bonnet, your cape, and your glove
+And come with me, for thee I love","['country', 'gospel', 'pop']",145.8,52,1956,5.6,96.18,122,13,"{'neg': 0.0, 'neu': 0.705, 'pos': 0.295, 'compound': 0.9919}",Friendly Persuasion,2.1,Pat Boone,6,7
+"Hey! jealous lover
+You're acting so strange
+Hey! jealous lover
+What is making you change
+
+Hey! jealous lover
+How wrong can you be
+I'm yours ever faithful
+Just be faithful to me
+
+I am just as steady - as that clock on the shelf
+Maybe you're accusing me of - what you're doing yourself
+
+Hey! jealous lover
+I'm telling you true
+I know that you're jealous
+But there's no one but you
+
+Could have cheated lots of times - but just couldn't do
+I was much to busy baby - being faithful to you
+
+Hey! jealous lover
+I'm telling you true
+I know that you're jealous
+But there's no one but you
+
+- no one for me - jealous lover but you","['big band', 'chrismas', 'christmas', 'columbia', 'easy listening soundtracks and musicals', 'garland', 'jazz', 'pop', 'swing', 'swing; jazz; big band; christmas', 'vocal']",144.0,53,1956,4.800000000000001,98.21,116,16,"{'neg': 0.251, 'neu': 0.54, 'pos': 0.209, 'compound': -0.5501}",Hey Jealous Lover,1.3,Frank Sinatra,14,12
+"Once I was alone
+So lonely and then
+You came, out of nowhere
+Like the sun up from the hills
+
+Cold, cold was the wind
+Warm, warm were your lips
+Out there, on that ski trail
+Where your kiss filled me with thrills
+
+A weekend in Canada, a change of scene
+Was the most I bargained for
+And then I discovered you and in your eyes
+I found the love that I couldn't ignore
+
+Down, down came the sun
+Fast, fast, fast, beat my heart
+I knew when the sun set
+From that day, we'd never ever part",['easy listening soundtracks and musicals'],114.3,55,1956,4.4,99.23,98,16,"{'neg': 0.067, 'neu': 0.784, 'pos': 0.149, 'compound': 0.8180000000000001}",Canadian Sunset,0.9,Andy Williams,8,2
+"You give your hand to me and then you say hello
+And I can hardly speak, my heart is beating so
+And anyone could tell, you think you know me well
+But you don't know me
+
+No, you don't know the one, who dreams of you at night
+And longs to kiss your lips, and longs to hold you tight
+To you I'm just a friend, that's all I've ever been
+But you don't know me
+
+For I never knew the art of making love
+Though my heart ache with love for you
+Afraid and shy, I let my chance go by
+The chance you might have loved me too
+
+You give your hand to me, and then you say goodbye
+I watch you walk away, beside the lucky guy
+To never, never know, the one who loves you so
+No, you don't know me
+
+You give your hand to me, and then you say goodbye
+I watch you walk away, beside the lucky guy
+To never, never know, the one who loves you so
+No, you don't know me",['american'],196.2,59,1956,5.6,104.64,180,20,"{'neg': 0.035, 'neu': 0.707, 'pos': 0.258, 'compound': 0.9926}",You Don't Know Me,0.9,Jerry Vale,6,8
+"Throw mama from the train a kiss, a kiss
+Wave mama from the train a goodbye
+Throw mama from the train a kiss a kiss
+And don't cry, my baby, don't cry
+
+How I miss that sweet lady with her old-country touch
+Miss her quaint broken English called *Pennsylvania Dutch*
+I can still see her there at the station that day
+Calling out to her baby as the train pulled away
+
+Throw mama from the train a kiss, a kiss
+Dry mama all your tears, won't you try?
+Throw mama from the train a kiss, a kiss
+And eat mama up all her pie
+
+Can't believe that she's gone now, it's a lonely old town
+Yet I know that her heavenly love keeps looking down
+'cause whenever I happen to be passing through
+I could swear she was there with the warmth I once knew
+
+And I
+Throw mama from the train a kiss, a kiss
+Wave mama from the train a goodbye
+Throw mama from the train a kiss, a kiss
+And she throws one back from up high","['country', 'pop']",204.3,71,1956,5.6,104.64,180,20,"{'neg': 0.052000000000000005, 'neu': 0.676, 'pos': 0.272, 'compound': 0.9918}",Mama From the Train,0.9,Patti Page,11,8
+"(Clyde Otis, Kelly Owens)
+
+
+Did you ever
+Watch the one you love
+Slowly drifting away from you,
+And you know 
+Deep in your heart
+There is nothing that you can do
+To make her stay (To make her stay),
+To turn the tide (To turn the tide), 
+To ease the pain (To ease the pain)
+That you feel down inside?
+
+
+When her eyes 
+Say it's over and done,
+Then you simply must face the fact.
+So you leave and think it over,
+But you come hurrying back
+Hoping she'll change her mind,
+Praying she'll take you back.
+But like the lady said,
+""That's all there is to that.""
+
+
+(When her eyes 
+Say it's over and done, 
+Then you simply must face the fact.)
+
+
+So you leave and think it over,
+But you come hurrying back
+Hoping she'll change her mind, 
+Praying she'll take you back.
+But like the lady said,
+""That's all there is to that.""","['american', 'death by lung cancer', 'easy listening soundtracks and musicals', 'jazz', 'jump blues', 'pop', 'swing', 'usa', 'vocal jazz']",183.6,72,1956,4.0,100.24,156,29,"{'neg': 0.036000000000000004, 'neu': 0.8230000000000001, 'pos': 0.14200000000000002, 'compound': 0.9555}",That's All There Is to That,0.5,Nat King Cole,11,12
+"When my jukebox baby takes the floor
+'Round the old jukebox in the candy store
+The joint starts jumpin' till the roof comes tumblin' down
+(Choo-choo-wah, choo-choo-wah, shooby-doo-wah)
+Jukebox baby, you're the swingin'est doll in town
+
+Jukebox baby, put a nickel in for Maybelline
+Jukebox baby, drop another one for Seventeen
+Jukebox baby, whisper to your daddy-oh
+Three little love words, Kokomo
+
+How ya gonna get your homework done
+When you keep that jukebox on the run
+You don't dig Latin like ya dig that crazy sound
+(Choo-choo-wah, choo-choo-wah, shooby-doo-wah)
+Jukebox baby, you're the swingin'est doll in town
+
+Jukebox baby, I hear you knockin'
+Jukebox baby, keep the coin box hoppin'
+Jukebox baby, tell me sincerely
+That you ain't forgettin' no Tina Marie
+
+Hip-hip, hop-hop, ho-ho, aww, hah
+Oh, jukebox baby, my jukebox baby, jukebox baby
+Jukebox baby, jukebox baby, jukebox baby
+
+All your lunchtime money goes down the slot
+You could live on air if the music's hot
+You just ain't quittin' till ya rock that clock around
+(Choo-choo-wah, choo-choo-wah, shooby-doo-wah)
+Jukebox baby, you're the swingin'est doll in town
+
+See ya later
+Alligator
+Oh hey, ring-a-dinga
+What a dungaree doll I've found
+Run them there now
+Jukebox baby, jukebox baby
+You're the wingin'est
+Dingin'est, swingin'est doll in town","['adult contemporary', 'american', 'big band', 'classic pop and rock', 'country', 'easy listening', 'jazz', 'latin', 'pop', 'rock', 'rock and roll', 'swing']",325.8,76,1956,4.4,65.39,209,33,"{'neg': 0.031, 'neu': 0.928, 'pos': 0.041, 'compound': 0.5081}",Juke Box Baby,5.6,Perry Como,38,9
+"(You'll never know)
+You'll never, never know I care
+You'll never know the torch I bear
+You'll never know it, for I won't show it
+Oh, no, you'll never, never know
+
+(You'll never know)
+You'll never, never see me cry
+Not even when you're glancing by
+For I won't weaken, when we're speaking
+Oh, no, you'll never, never know
+
+You'll know the used to me
+That I was before
+You'll see the used to be
+That one you did adore
+
+(You'll never know)
+No, no I know I won't reveal
+The way I really truely feel
+But if you guess it
+I'll confess it
+Oh, darling now the time to plot
+Or else you'll never, never know
+
+You'll know the used to me
+That I was before
+You'll see the used to be
+That one you did adore
+
+(You'll never know)
+No, no I know I won't reveal
+The way I really truely feel
+But if you guess it
+I'll confess it
+Oh, darling now the time to plot
+Or else you'll never
+No, no you'll never
+Oh, no you'll never, ever know
+(You'll never know)",['easy listening soundtracks and musicals'],217.8,79,1956,4.0,100.24,186,35,"{'neg': 0.066, 'neu': 0.795, 'pos': 0.139, 'compound': 0.9366000000000001}",You'll Never Never Know,0.5,Platters,10,18
+"I'm in love with a dolly named 'Glendora' 
+She works in the window of a big department stor-a! 
+Eyes of blue, hair like gold, 
+Never been young, but she'll never get old . . . 
+Oh Glendora . . . I wanna see more of you! 
+
+O' Glendora . . . O' Glendora . . . 
+O' Glendora . . . I wanna see more of you! 
+
+She's so shy that I don't know how I found her, 
+With three big body guards always workin' around her! 
+One just nods, an' two just grins, 
+An' three got a mouth full of safety pins . . . 
+O' Glendora . . . I wanna see more of you! 
+( You . . . more of you! ) 
+
+O' Glendora . . . O' Glendora . . . 
+O' Glendora . . . I wanna see more of you! 
+(  . . . more of you! ) 
+
+I stand left an' I stand right, 
+Outta my head 'cause I'm outta sight . . . 
+O' Glendora . . . I wanna see more of you! 
+
+Late last night at the store they did some changin' . . . 
+An' I stood watchin' when they started re-arrangin' . . . 
+She lost her wig, she lost her arms, 
+An' when they got through she lost all of her charms, 
+O' Glendora . . . what did they do to you? 
+
+What they do, what they do, what they do ? 
+O' Glendora . . . O' Glendora . . . 
+O' Glendora . . . what did they do to you? 
+
+What they do, what they do, what they do ? 
+O' Glendora . . . O' Glendora . . . 
+O' Glendora . . . what did they do to you? 
+
+Do to you, oh what did they do to you? 
+O' Glendora . . . what did they do to you?","['adult contemporary', 'american', 'big band', 'classic pop and rock', 'country', 'easy listening', 'jazz', 'latin', 'pop', 'rock', 'rock and roll', 'swing']",286.2,80,1956,5.2,97.2,242,28,"{'neg': 0.049, 'neu': 0.885, 'pos': 0.066, 'compound': 0.6253000000000001}",Glendora,1.7000000000000002,Perry Como,14,16
+"I keep a close watch on this heart of mine
+I keep my eyes wide open all the time
+I keep the ends out for the tie that binds
+Because you're mine, I walk the line
+
+I find it very, very easy to be true
+I find myself alone when each day is through
+Yes, I'll admit that I'm a fool for you
+Because you're mine, I walk the line
+
+As sure as night is dark and day is light
+I keep you on my mind both day and night
+And happiness I've known proves that it's right
+Because you're mine, I walk the line
+
+You've got a way to keep me on your side
+You give me cause for love that I can't hide
+For you I know I'd even try to turn the tide
+Because you're mine, I walk the line
+
+I keep a close watch on this heart of mine
+I keep my eyes wide open all the time
+I keep the ends out for the tie that binds
+Because you're mine, I walk the line","['american', 'americana', 'blues', 'contemporary folk', 'country', 'country gospel', 'death by diabetes', 'favorite', 'folk', 'gospel', 'osteraker', 'outlaw country', 'rock', 'rock and roll', 'rockabilly', 'spoken word', 'traditional country']",209.7,81,1956,5.2,97.2,179,20,"{'neg': 0.028, 'neu': 0.845, 'pos': 0.127, 'compound': 0.9476}",I Walk the Line,1.7000000000000002,Johnny Cash,4,10
+"I want your eyes to see my eyes
+I want your lips to touch my lips
+I want your love to be my love forever more 
+
+Can you find it in your heart to forgive me
+I was thoughtless heaven knows I acted badly
+But the love I once gave to you so gladly
+Can you find it in your heart
+
+Can't we make another start, please forgive me
+I'm repenting and your arms alone can save me
+So if carelessly I lost the love you gave me
+Can you find it in your heart
+
+Day and night I want your eyes to see my eyes
+I want your lips to touch my lips
+I want your love to be my love forever more
+And never never more to part
+
+Must you tell me that it's over? think it over
+Though I once betrayed your love, forgive the treason
+And my darling if your mind can't find the reason
+Can you find it in your heart","['american', 'jazz', 'pop']",193.5,82,1956,5.2,97.2,166,20,"{'neg': 0.096, 'neu': 0.616, 'pos': 0.28700000000000003, 'compound': 0.9886}",Can You Find It in Your Heart,1.7000000000000002,Tony Bennett,12,6
+"I give to you and you give to me
+True love, true love.
+So, on and on it will always be
+True love, true love.
+For you and I have a guardian angel on high
+With nothing to do but to
+Give to you and you give to me
+Love forever true.","['actress', 'dancer', 'singer']",60.3,86,1956,4.4,99.23,52,8,"{'neg': 0.0, 'neu': 0.648, 'pos': 0.352, 'compound': 0.9652000000000001}",True Love,0.9,Jane Powell,2,1
+"-Artist: Nat King Cole
+-peak Billboard position # 11 in 1956
+-Words by Sammy Gallop and Music by Chester Conn
+
+
+Night lights, those blues-in-the-night lights
+Are no longer bright lights since I'm without you
+Sweet dreams, oh where did they fly to?
+You're gone and who can I cry to?
+
+Those night lights remind me of bright eyes
+And beautiful white lies too good to be true
+As I go on my way with all my heart I pray
+That those night lights will lead me to you
+
+
+
+Those night lights remind me of bright eyes
+And beautiful white lies too good to be true
+As I go on my way with all my heart I pray
+That those night lights will lead me to you","['american', 'death by lung cancer', 'easy listening soundtracks and musicals', 'jazz', 'jump blues', 'pop', 'swing', 'usa', 'vocal jazz']",139.5,88,1956,5.2,105.66,125,15,"{'neg': 0.10300000000000001, 'neu': 0.68, 'pos': 0.217, 'compound': 0.9533}",Night Lights,0.5,Nat King Cole,10,9
+"Why this feeling? Why this glow?
+Why the thrill when you say hello?
+It's a strange and tender magic you do
+Mister Wonderful, that's you.
+
+Why this trembling when you speak
+Why this joy when you touch my cheek?
+I must tell you what my heart knows is true
+Mister Wonderful, that's you.
+
+And why this longing to know your charms
+To spend forever here in your arms
+
+Oh there's much more I could say
+But the words keep slipping away
+And I'm left with one point of view
+Mister Wonderful, that's you
+
+One more thing, then I'm through
+Mister Wonderful
+Mister Wonderful
+Mister Wonderful, I love you","['american', 'big band', 'death by diabetes', 'death by heart attack', 'easy listening soundtracks and musicals', 'female vocalist', 'jazz', 'pop', 'show tunes', 'standards', 'traditional pop', 'vocal jazz']",129.6,91,1956,4.4,99.23,108,17,"{'neg': 0.043000000000000003, 'neu': 0.653, 'pos': 0.305, 'compound': 0.9897}",Mr Wonderful,0.9,Peggy Lee,12,5
+"Day is ending
+Birds are wending
+Back to the shelter of
+Each little nest they love
+
+Nightshades falling
+Lovebirds calling
+What makes the world go round?
+Nothing but love
+
+When Whip-poor-wills call
+And ev'ning is nigh
+I hurry to
+My blue heaven
+
+I turn to the right
+A little white light
+Will lead you to
+My blue heaven
+
+You'll see a smiling face
+A fireplace
+A cozy room
+A little nest
+That's nestled where
+The roses bloom
+
+Just Mollie and me
+And baby makes three;
+We're happy in
+My blue heaven
+
+Doo doo doo doo doo
+Da da da da da
+
+You'll see a smiling face
+A fireplace
+A cozy room
+A little nest that's nestled where the roses bloom
+
+Just Mollie and me
+And baby makes three;
+We're happy in
+My blue heaven
+
+We're happy in my blue heaven","['boogie-woogie', 'new orleans r b', 'new orleans r&b', 'piano blues', 'rhythm & blues', 'rnb', 'rock', 'rock & roll', 'rock and indie', 'rock and roll']",178.2,92,1956,3.6,92.8,140,33,"{'neg': 0.008, 'neu': 0.68, 'pos': 0.312, 'compound': 0.9956}",My Blue Heaven,1.3,Fats Domino,17,17
+"My sweetheart is a soldier
+As handsome as can be
+But suddenly they sent him 
+Away across the sea 
+
+So patiently I waited
+Until his leave was due
+Then wrote and said ""My darling,
+I'll tell you what to do""
+
+Come to the station
+Jump  from the train
+March at the double
+Down lover's lane
+Then in the glen where the roses en-twine
+Lay down your arms  (Lay down your arms)
+Lay down your arms and surrender to mine
+
+A soldier is a soldier
+And when he's on parade
+An order is an order
+And has to be obeyed
+
+You've got to do your duty
+Wherever you may be
+And now you're under orders
+To hurry home to me
+
+Come to the station
+Jump  from the train
+March at the double
+Down lover's lane
+Then in the glen where the roses en-twine
+Lay down your arms  (Lay down your arms)
+Lay down your arms and surrender to mine
+
+The girl who loves a soldier
+Is either sad or gray
+'Cause  first of all he's with her
+And then he's far away
+But soldiers have their duty
+To answer to the call
+And that is why I'm calling
+The loudest of them all
+
+Come to the station
+Jump  from the train
+March at the double
+Down lover's lane
+Then in the glen where the roses en-twine
+Lay down your arms  (Lay down your arms)
+Lay down your arms and surrender to mine","['classic pop and rock', 'vocal harmony']",286.2,97,1956,4.0,100.24,241,45,"{'neg': 0.017, 'neu': 0.937, 'pos': 0.045, 'compound': 0.836}",Lay Down Your Arms,0.5,Chordettes,25,20

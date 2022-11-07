@@ -1,0 +1,224 @@
+lyrics,tags,num_syllables,pos,year,fog_index,flesch_index,num_words,num_lines,sentiment,title,f_k_grade,artist,difficult_words,num_dupes
+"Unchain me, unchain me
+Unchain me, unchain me
+Unchain me
+
+Unchain me, unchain me
+Unchain me, unchain me
+
+Oh, my love, my darling
+I've hungered for your touch
+A long, lonely time
+
+Time goes by so slowly
+And time can do so much
+Are you still mine
+I need your love, I need your love
+God speed your love to me",['film composer'],76.5,5,1955,4.0,91.78,61,12,"{'neg': 0.033, 'neu': 0.669, 'pos': 0.298, 'compound': 0.969}",Unchained Melody,1.7000000000000002,Les Baxter,5,5
+"You made me cry 
+When you said goodbye
+Ain't that a shame 
+My tears fell like rain 
+Ain't that a shame 
+You' re the one to blame 
+
+You broke my heart 
+When you said we're apart 
+Ain't that a shame
+My tears fell like rain 
+Ain't that a shame 
+You' re the one to blame 
+
+Oh well goodbve 
+Although I'll cry 
+Ain't that a shame 
+My tears fell like rain 
+Ain't that a shame 
+You' re the one to blame","['country', 'gospel', 'pop']",90.9,9,1955,3.6,109.72,80,18,"{'neg': 0.215, 'neu': 0.54, 'pos': 0.245, 'compound': 0.4632}",Ain't That A Shame,-1.0,Pat Boone,1,8
+"Some people say a man is made out of mud
+A poor man's made out of muscle and blood
+Muscle and blood and skin and bones
+A mind that's weak and a back that's strong
+
+You load sixteen tons, whattaya get?
+Another day older and deeper in debt
+St. Peter don'cha call me, 'cause I can't go
+I owe my soul to the company store
+
+I was born one morning when the sun didn't shine
+I picked up my shovel and I walked to the mine
+I loaded sixteen tons of number-nine coal
+And the straw boss said, ""Well bless my soul!""
+
+You load sixteen tons, whattaya get?
+Another day older and deeper in debt
+St. Peter don'cha call me, 'cause I can't go
+I owe my soul to the company store
+
+I was born one morning, it was drizzlin' rain
+Fightin' and trouble are my middle name
+I was raised in the canebreak by an old mama lion
+Can't no high-toned woman make me walk the line
+
+You load sixteen tons, whattaya get?
+Another day older and deeper in debt
+St. Peter don'cha call me, 'cause I can't go
+I owe my soul to the company store
+
+If you see me comin' better step aside
+A lotta men didn't, a lotta men died
+One fist of iron, the other of steel
+If the right one don't getcha then the left one will
+
+You load sixteen tons, whattaya get?
+Another day older and deeper in debt
+St. Peter don'cha call me, 'cause I can't go
+I owe my soul to the company store","['death by liver failure', 'spiritual']",322.2,13,1955,5.2,97.2,263,32,"{'neg': 0.075, 'neu': 0.865, 'pos': 0.06, 'compound': -0.6174000000000001}",Sixteen Tons,1.7000000000000002,Tennessee Ernie Ford,24,18
+"The tables are empty - the dance floor's deserted
+You play the same love song - it's the tenth time you've heard it
+That's the beginning - just one of the clues
+You've had your first lesson - in learnin' the blues
+
+The cigarettes you light - one after another
+Won't help you forget her - and the way that you love her
+You're only burning - a torch you can't lose
+But you're on the right track - for learnin' the blues
+
+When you're at home alone, the blues will taunt you - constantly
+When you're out in a crowd, the blues will haunt your memory
+
+The nights when you don't sleep - the whole night you're crying
+You just can't forget her - soon you even stop trying
+You'll walk the floor - and wear out your shoes
+When you feel your heart break - you're learnin' the (those) blues","['big band', 'chrismas', 'christmas', 'columbia', 'easy listening soundtracks and musicals', 'garland', 'jazz', 'pop', 'swing', 'swing; jazz; big band; christmas', 'vocal']",167.4,14,1955,5.6,96.18,139,14,"{'neg': 0.09, 'neu': 0.804, 'pos': 0.105, 'compound': 0.5158}",Learnin' The Blues,2.1,Frank Sinatra,9,2
+"(Bung, bung, bung, bung)
+
+Mr. Sandman, bring me a dream (bum, bum, bum, bum)
+Make him the cutest that I've ever seen (bum, bum, bum, bum)
+Give him two lips like roses and clover (bum, bum, bum, bum)
+Then tell him that his lonesome nights are over
+
+Sandman, I'm so alone (bum, bum, bum, bum)
+Don't have nobody to call my own (bum, bum, bum, bum)
+Please turn on your magic beam
+Mr. Sandman, bring me a dream
+
+(Bung, bung, bung, bung)
+
+Mr. Sandman, bring me a dream
+Make him the cutest that I've ever seen
+Give him the word that I'm not a rover
+Then tell him that his lonesome nights are over
+
+Sandman, I'm so alone
+Don't have nobody to call my own
+Please turn on your magic beam
+Mr. Sandman, bring me a dream
+
+(Bung, bung, bung, bung)
+
+Mr. Sandman (""Yes?"") bring us a dream
+Give him a pair of eyes with a come-hither gleam
+Give him a lonely heart like Pagliacci
+And lots of wavy hair like Liberace
+
+Mr. Sandman, someone to hold (someone to hold)
+Would be so peachy before we're too old
+So please turn on your magic beam
+Mr. Sandman, bring us, please, please, please
+Mr. Sandman, bring us a dream
+
+(""Bung, bung, bung, bung"")","['classic pop and rock', 'vocal harmony']",252.0,18,1955,4.800000000000001,98.21,212,29,"{'neg': 0.054, 'neu': 0.767, 'pos': 0.179, 'compound': 0.976}",Mr. Sandman,1.3,Chordettes,13,14
+"A blossom fell from off a tree
+It settled softly on the lips you turned to me
+The gypsies say and I know why
+""A falling blossom only touches lips that lie.""
+
+A blossom fell and very soon
+I saw you kissing someone new beneath the moon
+
+I thought you loved me
+You said you loved me
+We planned together
+To dream forever
+
+The dream has ended
+For true love died
+The night a blossom fell
+And touched two lips that lied
+
+A blossom fell and very soon
+I saw you kissing someone new beneath the moon
+
+I thought you loved me
+You said you loved me
+We planned together
+To dream forever
+
+The dream has ended
+For true love died
+The night a blossom fell
+And touched two lips that lied","['american', 'death by lung cancer', 'easy listening soundtracks and musicals', 'jazz', 'jump blues', 'pop', 'swing', 'usa', 'vocal jazz']",157.5,20,1955,4.0,100.24,132,24,"{'neg': 0.08700000000000001, 'neu': 0.634, 'pos': 0.28, 'compound': 0.9849}",A Blossom Fell,0.5,Nat King Cole,13,15
+"Born on a mountain in Tennessee
+Greenest state in the land of the free
+Raised in the woods so's he knew every tree
+He killed him a b'ar when he was only three
+
+Davy, Davy Crockett, king of the wild frontier
+
+Fought single-handed thru the Injun war
+'Till the Creeks was whipped and the peace was in store
+And while he was a'handlin' this risky chore
+Made hisself a legend forever more
+
+Davy, Davy Crockett, the man who don't know fear
+
+When he lost his love, his grief was gall
+In his heart, he wanted to leave it all
+And lose hisself in the forest tall
+But he answered, instead, his country's call
+
+Davy, Davy Crockett, the choice of the whole frontier
+
+He went off to Congress and served a spell
+Fixin' up the government and laws as well
+Took over Washington, so I hear tell
+And patched up a crack in the Liberty Bell
+
+Davy, Davy Crockett, seein' his duty clear
+
+When he came home, his politickin' done
+Why, the big western march had just begun
+So he packed his gear and his trusty gun
+And lit out a'grinnin' to follow the sun
+
+Davy, Davy Crockett, leadin' the pioneer
+
+His land is the biggest, his land is the best
+From grassy plaines to the mountain crest
+He's ahead of us all and meetin' the test
+And a'follern' his legend right into the west
+
+Davy, Davy Crockett, king of the wild frontier
+Davy, Davy Crockett, king of the wild frontier","['death by liver failure', 'spiritual']",316.8,24,1955,5.2,88.74,250,31,"{'neg': 0.088, 'neu': 0.808, 'pos': 0.10400000000000001, 'compound': 0.7669}",The Ballad Of Davy Crockett,2.9,Tennessee Ernie Ford,37,12
+"Only you can make all this world seem right
+Only you can make the darkness bright
+Only you and you alone
+Can thrill me like you do
+And fill my heart with love for only you
+
+Only you can make all this change in me
+For it's true, you are my destiny
+When you hold my hand
+I understand the magic that you do
+You're my dream come true
+My one and only you
+
+Only you can make all this change in me
+For it's true, you are my destiny
+When you hold my hand
+I understand the magic that you do
+You're my dream come true
+My one and only you
+
+One and only you",['easy listening soundtracks and musicals'],139.5,29,1955,4.4,99.23,116,18,"{'neg': 0.029, 'neu': 0.726, 'pos': 0.245, 'compound': 0.9812000000000001}",Only You,0.9,Platters,3,8
