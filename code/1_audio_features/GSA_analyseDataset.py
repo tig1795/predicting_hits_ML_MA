@@ -30,8 +30,7 @@ import pingouin as pg
 
 #%% Read in dataset
 
-dataset = pd.read_csv('Data/metal_dataset_uniqueTracks.csv', encoding='UTF-8', na_values='', index_col=0)
-
+dataset = pd.read_csv("../../data/audiofeatures/hits_no_hits.csv", encoding="UTF-8", na_values="", index_col=0)
 
 # make a folder for plots
 if not os.path.exists('Plots'):
@@ -134,8 +133,8 @@ audiofeatures = dataset[['category',
 	
 
 # we'll separate the data into two dataframes
-norwegianValues = audiofeatures[audiofeatures['category']=='Norwegian']
-finnishValues = audiofeatures[audiofeatures['category']=='Finnish']
+hitValues = audiofeatures[audiofeatures['category']=='Hit']
+nohitValues = audiofeatures[audiofeatures['category']=='no Hit']
 
 # list of the comparisons we'll do:
 features = ['danceability','energy','loudness','speechiness','acousticness',
@@ -147,9 +146,10 @@ statHolder = pd.DataFrame()
 # do the comparisons in a loop
 for thisFeature in features:
 	# unpaired two-sample T-test using Pingouin
-	output = pg.ttest(finnishValues[thisFeature], norwegianValues[thisFeature],
+	output = pg.ttest(hitValues[thisFeature], 
+					  nohitValues[thisFeature],
 				      paired=False,
-					  tail='two-sided',
+					  tail='',
 					  correction='auto')
 	output['feature'] = thisFeature
 	statHolder = statHolder.append(output, ignore_index=True)
