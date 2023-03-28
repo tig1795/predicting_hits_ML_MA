@@ -30,10 +30,10 @@ GSA.authenticate()
 # %% Build our dataset
 
 # get the playlist with hits
-hits = pd.read_pickle(r'../../data/Spotify/Spotify_Download_Playlist_hits.pkl')
+hits = pd.read_pickle(r'Playlists/hits_new.pkl')
 
 # get the playlist with no hits
-no_hits = pd.read_pickle(r'../../data/Spotify/Spotify_Download_Playlist_non_hits.pkl')
+no_hits = pd.read_pickle(r'Playlists/no_hits_new.pkl')
 
 # add category
 hits['category'] = 'Hit'
@@ -43,7 +43,7 @@ no_hits['category'] = 'no Hit'
 playlists_dataset = pd.concat([hits, no_hits], ignore_index=True)
 
 # save for posterity
-playlists_dataset.to_csv('Data/hits_no_hits.csv', encoding='UTF-8')
+playlists_dataset.to_csv('Data/hits_no_hits_new.csv', encoding='UTF-8')
 
 
 # %% Get tracks
