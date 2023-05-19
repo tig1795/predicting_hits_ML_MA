@@ -30,10 +30,10 @@ GSA.authenticate()
 # %% Build our dataset
 
 # get the playlist with hits
-hits = pd.read_pickle(r'Playlists/hits_new.pkl')
+hits = pd.read_pickle(r'Playlists/hits.pkl')
 
 # get the playlist with no hits
-no_hits = pd.read_pickle(r'Playlists/no_hits_new.pkl')
+no_hits = pd.read_pickle(r'Playlists/no_hits.pkl')
 
 # add category
 hits['category'] = 'Hit'
